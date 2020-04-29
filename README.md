@@ -2,7 +2,8 @@
 
 Various Processing scripts to control a Flipdot display
 
-https://flipdots.com/en/home/
+Flipdot displays - https://flipdots.com/en/home/
+Processing - https://processing.org
 
 Documentation on controlling the Flipdot display available on request from Flipdot.com
 
