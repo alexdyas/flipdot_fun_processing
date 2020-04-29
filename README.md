@@ -1,4 +1,4 @@
-# Flipdot Fun Processing
+# Flipdot Fun with Processing
 
 Various Processing scripts to control a Flipdot display
 
