@@ -20,3 +20,6 @@ Draw a grid on the computer screen, flip dots on the Flipdot display that corres
 
 ## flipdot_scanning_bar
 Move a vertical bar across the display from left to right
+
+## flipdot_audio_equalizer
+Very rough first pass at a graphic equaliser
