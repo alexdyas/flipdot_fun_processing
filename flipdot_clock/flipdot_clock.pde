@@ -5,8 +5,7 @@ int flipdot_serialport=1;
 int flipdot_width=28;
 int flipdot_height=7;
 
-boolean state;
-
+// Colon between hours and minutes, left or right
 boolean left=true;
 
 // Define the digits
@@ -126,7 +125,7 @@ void draw() {
   int minute_digit_1;
   int minute_digit_2;
 
-  println("the_second: "+the_second);
+  printdebug("the_second: "+the_second);
 
   hour_digit_1=int(nf(the_hour,2).substring(0,1));
   hour_digit_2=int(nf(the_hour,2).substring(1,2));
