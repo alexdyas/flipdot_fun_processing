@@ -23,3 +23,6 @@ Move a vertical bar across the display from left to right
 
 ## flipdot_audio_equalizer
 Very rough first pass at a graphic equaliser
+
+## flipdot_clock
+Display the time on the flipdot display. First use of the flipdot class.

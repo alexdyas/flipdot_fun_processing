@@ -28,7 +28,7 @@ int bands = 32;
 float[] spectrum = new float[bands];
 SoundFile disp;
 
-void setup() { //<>// //<>// //<>//
+void setup() {
 
   // Open the serial port
   myPort = new Serial(this, Serial.list()[serialport], baud);
